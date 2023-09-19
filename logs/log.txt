@@ -1,0 +1,1220 @@
+2023-07-20 15:53:17,098 com.nick.HttpServer.TomcatServer [main] INFO 程序启动...
+2023-07-20 15:53:17,124 com.nick.HttpServer.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-20 15:53:20,877 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3237 连接上服务器
+2023-07-20 15:53:20,879 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3238 连接上服务器
+2023-07-20 15:59:25,128 com.nick.HttpServer.TomcatServer [main] INFO 程序启动...
+2023-07-20 15:59:25,155 com.nick.HttpServer.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-20 15:59:37,266 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3353 连接上服务器
+2023-07-20 15:59:37,268 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3354 连接上服务器
+2023-07-20 16:26:09,963 com.nick.HttpServer.TomcatServer [main] INFO 程序启动...
+2023-07-20 16:26:09,989 com.nick.HttpServer.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-20 16:26:20,229 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:12664 连接上服务器
+2023-07-20 16:26:20,231 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:12665 连接上服务器
+2023-07-20 16:26:50,067 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:12680 连接上服务器
+2023-07-20 16:26:50,067 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:12681 连接上服务器
+2023-07-20 16:26:50,081 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:12682 连接上服务器
+2023-07-20 16:26:51,188 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:12684 连接上服务器
+2023-07-20 16:26:51,188 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:12685 连接上服务器
+2023-07-20 16:26:51,197 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:12686 连接上服务器
+2023-07-20 16:26:56,223 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:12688 连接上服务器
+2023-07-20 16:26:56,224 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:12689 连接上服务器
+2023-07-20 16:26:56,228 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:12691 连接上服务器
+2023-07-20 16:27:26,258 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:12709 连接上服务器
+2023-07-20 16:27:26,258 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:12710 连接上服务器
+2023-07-20 16:27:26,266 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:12711 连接上服务器
+2023-07-20 16:27:36,811 com.nick.HttpServer.TomcatServer [main] INFO 程序启动...
+2023-07-20 16:27:36,834 com.nick.HttpServer.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-20 16:27:40,635 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:12726 连接上服务器
+2023-07-20 16:27:40,643 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:12727 连接上服务器
+2023-07-20 16:27:49,420 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:12733 连接上服务器
+2023-07-20 16:27:49,421 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:12734 连接上服务器
+2023-07-20 16:28:31,185 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:12756 连接上服务器
+2023-07-20 16:28:31,185 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:12757 连接上服务器
+2023-07-20 16:28:48,785 com.nick.HttpServer.TomcatServer [main] INFO 程序启动...
+2023-07-20 16:28:48,809 com.nick.HttpServer.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-20 16:29:00,406 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:12787 连接上服务器
+2023-07-20 16:29:00,408 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:12788 连接上服务器
+2023-07-20 16:33:11,153 com.nick.HttpServer.TomcatServer [main] INFO 程序启动...
+2023-07-20 16:33:11,177 com.nick.HttpServer.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-20 16:33:14,902 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:12932 连接上服务器
+2023-07-20 16:33:14,904 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:12933 连接上服务器
+2023-07-20 16:34:17,149 com.nick.HttpServer.TomcatServer [main] INFO 程序启动...
+2023-07-20 16:34:17,172 com.nick.HttpServer.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-20 16:34:28,767 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:12985 连接上服务器
+2023-07-20 16:34:28,769 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:12986 连接上服务器
+2023-07-20 16:40:22,188 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13122 连接上服务器
+2023-07-20 16:40:22,188 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13123 连接上服务器
+2023-07-20 16:40:37,870 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13131 连接上服务器
+2023-07-20 16:40:37,871 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13132 连接上服务器
+2023-07-20 16:41:59,055 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13153 连接上服务器
+2023-07-20 16:41:59,055 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13154 连接上服务器
+2023-07-20 16:41:59,223 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13155 连接上服务器
+2023-07-20 16:41:59,395 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13156 连接上服务器
+2023-07-20 16:42:07,509 com.nick.HttpServer.TomcatServer [main] INFO 程序启动...
+2023-07-20 16:42:07,537 com.nick.HttpServer.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-20 16:42:12,226 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13163 连接上服务器
+2023-07-20 16:42:12,229 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13164 连接上服务器
+2023-07-20 16:43:36,378 com.nick.HttpServer.TomcatServer [main] INFO 程序启动...
+2023-07-20 16:43:36,433 com.nick.HttpServer.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-20 16:43:45,686 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13194 连接上服务器
+2023-07-20 16:43:45,689 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13195 连接上服务器
+2023-07-20 16:51:03,341 com.nick.HttpServer.TomcatServer [main] INFO 程序启动...
+2023-07-20 16:51:03,379 com.nick.HttpServer.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-20 16:51:07,926 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13285 连接上服务器
+2023-07-20 16:51:07,927 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13286 连接上服务器
+2023-07-20 17:13:24,092 com.nick.HttpServer.TomcatServer [main] INFO 程序启动...
+2023-07-20 17:13:24,118 com.nick.HttpServer.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-20 17:13:32,190 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13523 连接上服务器
+2023-07-20 17:13:32,192 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13524 连接上服务器
+2023-07-20 17:13:48,634 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13533 连接上服务器
+2023-07-20 17:13:48,635 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13534 连接上服务器
+2023-07-20 17:13:48,743 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13535 连接上服务器
+2023-07-20 17:13:48,803 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13536 连接上服务器
+2023-07-20 17:13:48,804 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13537 连接上服务器
+2023-07-20 17:13:48,805 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13538 连接上服务器
+2023-07-20 17:13:48,807 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13539 连接上服务器
+2023-07-20 17:13:48,808 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13540 连接上服务器
+2023-07-20 17:13:48,810 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13541 连接上服务器
+2023-07-20 17:13:48,842 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13542 连接上服务器
+2023-07-20 17:13:48,853 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13543 连接上服务器
+2023-07-20 17:13:48,860 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13544 连接上服务器
+2023-07-20 17:13:48,861 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13545 连接上服务器
+2023-07-20 17:13:48,863 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13546 连接上服务器
+2023-07-20 17:13:48,864 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13547 连接上服务器
+2023-07-20 17:13:48,878 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13548 连接上服务器
+2023-07-20 17:13:48,881 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13549 连接上服务器
+2023-07-20 17:13:48,884 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13550 连接上服务器
+2023-07-20 17:13:58,917 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13553 连接上服务器
+2023-07-20 17:14:00,768 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13555 连接上服务器
+2023-07-20 17:14:00,769 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13556 连接上服务器
+2023-07-20 17:14:00,836 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13557 连接上服务器
+2023-07-20 17:14:00,923 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13558 连接上服务器
+2023-07-20 17:14:00,928 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13559 连接上服务器
+2023-07-20 17:14:00,931 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13560 连接上服务器
+2023-07-20 17:14:00,931 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13561 连接上服务器
+2023-07-20 17:14:00,932 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13562 连接上服务器
+2023-07-20 17:14:00,933 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13563 连接上服务器
+2023-07-20 17:14:00,963 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13565 连接上服务器
+2023-07-20 17:14:00,969 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13566 连接上服务器
+2023-07-20 17:14:00,970 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13567 连接上服务器
+2023-07-20 17:14:00,971 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13568 连接上服务器
+2023-07-20 17:14:00,973 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13569 连接上服务器
+2023-07-20 17:14:00,988 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13570 连接上服务器
+2023-07-20 17:14:00,997 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13571 连接上服务器
+2023-07-20 17:14:00,997 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13572 连接上服务器
+2023-07-20 17:14:01,013 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13573 连接上服务器
+2023-07-20 17:15:18,875 com.nick.HttpServer.TomcatServer [main] INFO 程序启动...
+2023-07-20 17:15:18,912 com.nick.HttpServer.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-20 17:15:22,904 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13630 连接上服务器
+2023-07-20 17:15:22,905 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13631 连接上服务器
+2023-07-20 17:15:26,458 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13635 连接上服务器
+2023-07-20 17:15:26,458 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13636 连接上服务器
+2023-07-20 17:15:26,520 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13637 连接上服务器
+2023-07-20 17:15:26,639 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13638 连接上服务器
+2023-07-20 17:15:26,641 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13639 连接上服务器
+2023-07-20 17:15:26,642 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13640 连接上服务器
+2023-07-20 17:15:26,644 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13641 连接上服务器
+2023-07-20 17:15:26,644 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13642 连接上服务器
+2023-07-20 17:15:26,656 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13643 连接上服务器
+2023-07-20 17:15:26,664 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13644 连接上服务器
+2023-07-20 17:15:26,666 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13645 连接上服务器
+2023-07-20 17:15:26,667 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13646 连接上服务器
+2023-07-20 17:15:26,686 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13647 连接上服务器
+2023-07-20 17:15:26,690 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13648 连接上服务器
+2023-07-20 17:15:26,693 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13649 连接上服务器
+2023-07-20 17:15:26,695 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13650 连接上服务器
+2023-07-20 17:15:26,699 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13651 连接上服务器
+2023-07-20 17:15:26,702 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13652 连接上服务器
+2023-07-20 17:15:26,713 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13653 连接上服务器
+2023-07-20 17:15:26,717 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13654 连接上服务器
+2023-07-20 17:15:26,718 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13655 连接上服务器
+2023-07-20 17:15:26,723 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13656 连接上服务器
+2023-07-20 17:15:26,725 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13657 连接上服务器
+2023-07-20 17:15:26,732 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13658 连接上服务器
+2023-07-20 17:15:26,739 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13659 连接上服务器
+2023-07-20 17:15:26,742 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13660 连接上服务器
+2023-07-20 17:15:27,980 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13662 连接上服务器
+2023-07-20 17:19:20,880 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13746 连接上服务器
+2023-07-20 17:19:24,224 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13750 连接上服务器
+2023-07-20 17:19:24,224 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13751 连接上服务器
+2023-07-20 17:19:24,281 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13752 连接上服务器
+2023-07-20 17:19:24,367 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13753 连接上服务器
+2023-07-20 17:19:24,369 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13754 连接上服务器
+2023-07-20 17:19:24,370 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13755 连接上服务器
+2023-07-20 17:19:24,370 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13756 连接上服务器
+2023-07-20 17:19:24,374 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13757 连接上服务器
+2023-07-20 17:19:24,375 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13758 连接上服务器
+2023-07-20 17:19:24,399 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13759 连接上服务器
+2023-07-20 17:19:24,400 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13760 连接上服务器
+2023-07-20 17:19:24,405 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13761 连接上服务器
+2023-07-20 17:19:24,407 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13762 连接上服务器
+2023-07-20 17:19:24,411 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13763 连接上服务器
+2023-07-20 17:19:24,420 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13764 连接上服务器
+2023-07-20 17:19:24,449 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13765 连接上服务器
+2023-07-20 17:19:24,462 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13766 连接上服务器
+2023-07-20 17:19:24,471 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13767 连接上服务器
+2023-07-20 17:19:24,473 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13768 连接上服务器
+2023-07-20 17:19:24,475 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13769 连接上服务器
+2023-07-20 17:19:24,485 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13770 连接上服务器
+2023-07-20 17:19:24,505 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13771 连接上服务器
+2023-07-20 17:19:24,517 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13772 连接上服务器
+2023-07-20 17:19:24,522 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13773 连接上服务器
+2023-07-20 17:19:24,525 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13774 连接上服务器
+2023-07-20 17:19:24,528 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13775 连接上服务器
+2023-07-20 17:19:47,370 com.nick.HttpServer.TomcatServer [main] INFO 程序启动...
+2023-07-20 17:19:47,401 com.nick.HttpServer.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-20 17:19:51,208 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13799 连接上服务器
+2023-07-20 17:19:51,210 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13800 连接上服务器
+2023-07-20 17:19:51,277 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13801 连接上服务器
+2023-07-20 17:19:51,373 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13802 连接上服务器
+2023-07-20 17:19:51,377 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13803 连接上服务器
+2023-07-20 17:19:51,379 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13804 连接上服务器
+2023-07-20 17:19:51,381 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13805 连接上服务器
+2023-07-20 17:19:51,381 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13806 连接上服务器
+2023-07-20 17:19:51,382 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13807 连接上服务器
+2023-07-20 17:19:51,399 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13808 连接上服务器
+2023-07-20 17:19:51,400 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13809 连接上服务器
+2023-07-20 17:19:51,402 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13810 连接上服务器
+2023-07-20 17:19:51,405 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13811 连接上服务器
+2023-07-20 17:19:51,410 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13812 连接上服务器
+2023-07-20 17:19:51,414 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13813 连接上服务器
+2023-07-20 17:19:51,435 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13814 连接上服务器
+2023-07-20 17:19:51,438 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13815 连接上服务器
+2023-07-20 17:19:51,446 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13816 连接上服务器
+2023-07-20 17:19:51,452 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13817 连接上服务器
+2023-07-20 17:19:51,456 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13818 连接上服务器
+2023-07-20 17:19:51,463 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13819 连接上服务器
+2023-07-20 17:19:51,485 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13820 连接上服务器
+2023-07-20 17:19:51,489 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13821 连接上服务器
+2023-07-20 17:19:51,490 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13822 连接上服务器
+2023-07-20 17:19:51,490 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13823 连接上服务器
+2023-07-20 17:19:51,492 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13824 连接上服务器
+2023-07-20 17:19:54,230 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13826 连接上服务器
+2023-07-20 17:19:54,230 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13827 连接上服务器
+2023-07-20 17:19:54,297 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13828 连接上服务器
+2023-07-20 17:19:54,379 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13829 连接上服务器
+2023-07-20 17:19:54,382 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13830 连接上服务器
+2023-07-20 17:19:54,384 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13832 连接上服务器
+2023-07-20 17:19:54,385 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13833 连接上服务器
+2023-07-20 17:19:54,389 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13834 连接上服务器
+2023-07-20 17:19:54,390 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13835 连接上服务器
+2023-07-20 17:19:54,418 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13837 连接上服务器
+2023-07-20 17:19:54,421 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13838 连接上服务器
+2023-07-20 17:19:54,432 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13839 连接上服务器
+2023-07-20 17:19:54,435 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13840 连接上服务器
+2023-07-20 17:19:54,438 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13841 连接上服务器
+2023-07-20 17:19:54,443 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13842 连接上服务器
+2023-07-20 17:19:54,457 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13843 连接上服务器
+2023-07-20 17:19:54,473 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13844 连接上服务器
+2023-07-20 17:19:54,500 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13845 连接上服务器
+2023-07-20 17:19:54,507 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13846 连接上服务器
+2023-07-20 17:19:54,508 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13847 连接上服务器
+2023-07-20 17:19:54,512 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13848 连接上服务器
+2023-07-20 17:19:54,520 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13849 连接上服务器
+2023-07-20 17:19:54,536 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13850 连接上服务器
+2023-07-20 17:19:54,551 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13851 连接上服务器
+2023-07-20 17:19:54,555 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13852 连接上服务器
+2023-07-20 17:19:54,559 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13853 连接上服务器
+2023-07-20 17:20:14,723 com.nick.HttpServer.TomcatServer [main] INFO 程序启动...
+2023-07-20 17:20:14,747 com.nick.HttpServer.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-20 17:20:20,539 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13873 连接上服务器
+2023-07-20 17:20:20,541 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13874 连接上服务器
+2023-07-20 17:20:20,634 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13875 连接上服务器
+2023-07-20 17:20:20,713 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13876 连接上服务器
+2023-07-20 17:20:20,715 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13877 连接上服务器
+2023-07-20 17:20:20,715 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13878 连接上服务器
+2023-07-20 17:20:20,717 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13879 连接上服务器
+2023-07-20 17:20:20,718 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13880 连接上服务器
+2023-07-20 17:20:20,718 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13881 连接上服务器
+2023-07-20 17:20:20,738 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13882 连接上服务器
+2023-07-20 17:20:20,740 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13883 连接上服务器
+2023-07-20 17:20:20,746 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13884 连接上服务器
+2023-07-20 17:20:20,747 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13885 连接上服务器
+2023-07-20 17:20:20,751 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13886 连接上服务器
+2023-07-20 17:20:20,752 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13887 连接上服务器
+2023-07-20 17:20:20,766 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13888 连接上服务器
+2023-07-20 17:20:20,769 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13889 连接上服务器
+2023-07-20 17:20:20,793 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13890 连接上服务器
+2023-07-20 17:20:20,794 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13891 连接上服务器
+2023-07-20 17:20:20,796 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13892 连接上服务器
+2023-07-20 17:20:20,800 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13893 连接上服务器
+2023-07-20 17:20:20,812 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13894 连接上服务器
+2023-07-20 17:20:20,813 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13895 连接上服务器
+2023-07-20 17:20:20,830 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13896 连接上服务器
+2023-07-20 17:20:20,830 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13897 连接上服务器
+2023-07-20 17:20:20,837 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13898 连接上服务器
+2023-07-20 17:20:20,868 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13899 连接上服务器
+2023-07-20 17:20:35,970 com.nick.HttpServer.TomcatServer [main] INFO 程序启动...
+2023-07-20 17:20:36,000 com.nick.HttpServer.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-20 17:20:38,665 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13914 连接上服务器
+2023-07-20 17:20:38,667 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13915 连接上服务器
+2023-07-20 17:20:38,722 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13916 连接上服务器
+2023-07-20 17:20:38,809 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13917 连接上服务器
+2023-07-20 17:20:38,811 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13918 连接上服务器
+2023-07-20 17:20:38,811 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13919 连接上服务器
+2023-07-20 17:20:38,812 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13920 连接上服务器
+2023-07-20 17:20:38,812 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13921 连接上服务器
+2023-07-20 17:20:38,813 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13922 连接上服务器
+2023-07-20 17:20:38,846 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13923 连接上服务器
+2023-07-20 17:20:38,850 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13924 连接上服务器
+2023-07-20 17:20:38,852 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13925 连接上服务器
+2023-07-20 17:20:38,853 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13926 连接上服务器
+2023-07-20 17:20:38,854 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13927 连接上服务器
+2023-07-20 17:20:38,855 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13928 连接上服务器
+2023-07-20 17:20:38,876 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13929 连接上服务器
+2023-07-20 17:20:38,884 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13930 连接上服务器
+2023-07-20 17:20:38,887 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13931 连接上服务器
+2023-07-20 17:21:40,395 com.nick.HttpServer.TomcatServer [main] INFO 程序启动...
+2023-07-20 17:21:40,418 com.nick.HttpServer.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-20 17:21:44,326 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13975 连接上服务器
+2023-07-20 17:21:44,327 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13976 连接上服务器
+2023-07-20 17:21:44,416 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13977 连接上服务器
+2023-07-20 17:21:44,514 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13978 连接上服务器
+2023-07-20 17:21:44,514 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13979 连接上服务器
+2023-07-20 17:21:44,516 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13980 连接上服务器
+2023-07-20 17:21:44,517 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13981 连接上服务器
+2023-07-20 17:21:44,517 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13982 连接上服务器
+2023-07-20 17:21:44,519 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13983 连接上服务器
+2023-07-20 17:21:44,541 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13984 连接上服务器
+2023-07-20 17:21:44,542 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13985 连接上服务器
+2023-07-20 17:21:44,543 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13986 连接上服务器
+2023-07-20 17:21:44,544 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13987 连接上服务器
+2023-07-20 17:21:44,546 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13988 连接上服务器
+2023-07-20 17:21:44,554 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13989 连接上服务器
+2023-07-20 17:21:44,588 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13990 连接上服务器
+2023-07-20 17:21:44,591 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13991 连接上服务器
+2023-07-20 17:21:44,592 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13992 连接上服务器
+2023-07-20 17:21:45,827 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13993 连接上服务器
+2023-07-20 17:21:45,829 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13994 连接上服务器
+2023-07-20 17:21:45,881 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13995 连接上服务器
+2023-07-20 17:21:45,967 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13996 连接上服务器
+2023-07-20 17:21:45,968 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13997 连接上服务器
+2023-07-20 17:21:45,968 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13998 连接上服务器
+2023-07-20 17:21:45,970 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:13999 连接上服务器
+2023-07-20 17:21:45,986 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14000 连接上服务器
+2023-07-20 17:21:45,987 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14001 连接上服务器
+2023-07-20 17:21:45,996 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14002 连接上服务器
+2023-07-20 17:21:45,998 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14003 连接上服务器
+2023-07-20 17:21:45,998 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14004 连接上服务器
+2023-07-20 17:21:46,000 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14005 连接上服务器
+2023-07-20 17:21:46,029 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14006 连接上服务器
+2023-07-20 17:21:46,031 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14007 连接上服务器
+2023-07-20 17:21:46,035 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14008 连接上服务器
+2023-07-20 17:21:46,038 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14009 连接上服务器
+2023-07-20 17:21:46,042 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14010 连接上服务器
+2023-07-20 17:21:46,192 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14011 连接上服务器
+2023-07-20 17:21:46,193 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14012 连接上服务器
+2023-07-20 17:21:46,262 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14013 连接上服务器
+2023-07-20 17:21:46,355 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14014 连接上服务器
+2023-07-20 17:21:46,358 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14015 连接上服务器
+2023-07-20 17:21:46,359 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14016 连接上服务器
+2023-07-20 17:21:46,359 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14017 连接上服务器
+2023-07-20 17:21:46,359 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14018 连接上服务器
+2023-07-20 17:21:46,360 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14019 连接上服务器
+2023-07-20 17:21:46,385 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14020 连接上服务器
+2023-07-20 17:21:46,395 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14021 连接上服务器
+2023-07-20 17:21:46,396 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14022 连接上服务器
+2023-07-20 17:21:46,397 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14023 连接上服务器
+2023-07-20 17:21:46,400 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14024 连接上服务器
+2023-07-20 17:21:46,402 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14025 连接上服务器
+2023-07-20 17:21:46,415 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14026 连接上服务器
+2023-07-20 17:21:46,422 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14027 连接上服务器
+2023-07-20 17:21:46,429 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14028 连接上服务器
+2023-07-20 17:21:46,517 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14029 连接上服务器
+2023-07-20 17:21:46,518 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14030 连接上服务器
+2023-07-20 17:21:46,574 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14031 连接上服务器
+2023-07-20 17:21:46,668 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14032 连接上服务器
+2023-07-20 17:21:46,670 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14033 连接上服务器
+2023-07-20 17:21:46,672 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14034 连接上服务器
+2023-07-20 17:21:46,673 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14035 连接上服务器
+2023-07-20 17:21:46,673 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14036 连接上服务器
+2023-07-20 17:21:46,674 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14037 连接上服务器
+2023-07-20 17:21:46,714 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14038 连接上服务器
+2023-07-20 17:21:46,715 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14039 连接上服务器
+2023-07-20 17:21:46,718 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14040 连接上服务器
+2023-07-20 17:21:46,721 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14041 连接上服务器
+2023-07-20 17:21:46,723 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14042 连接上服务器
+2023-07-20 17:21:46,724 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14043 连接上服务器
+2023-07-20 17:21:46,756 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14044 连接上服务器
+2023-07-20 17:21:46,756 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14045 连接上服务器
+2023-07-20 17:21:46,758 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14046 连接上服务器
+2023-07-20 17:21:46,886 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14047 连接上服务器
+2023-07-20 17:21:46,887 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14048 连接上服务器
+2023-07-20 17:21:47,014 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14050 连接上服务器
+2023-07-20 17:21:47,125 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14051 连接上服务器
+2023-07-20 17:21:47,127 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14052 连接上服务器
+2023-07-20 17:21:47,130 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14053 连接上服务器
+2023-07-20 17:21:47,130 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14054 连接上服务器
+2023-07-20 17:21:47,131 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14055 连接上服务器
+2023-07-20 17:21:47,132 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14056 连接上服务器
+2023-07-20 17:21:47,166 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14057 连接上服务器
+2023-07-20 17:21:47,171 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14058 连接上服务器
+2023-07-20 17:21:47,176 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14059 连接上服务器
+2023-07-20 17:21:47,178 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14060 连接上服务器
+2023-07-20 17:21:47,182 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14061 连接上服务器
+2023-07-20 17:21:47,185 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14062 连接上服务器
+2023-07-20 17:21:47,197 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14063 连接上服务器
+2023-07-20 17:21:47,206 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14064 连接上服务器
+2023-07-20 17:21:47,209 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14065 连接上服务器
+2023-07-20 17:21:51,702 com.nick.HttpServer.TomcatServer [main] INFO 程序启动...
+2023-07-20 17:21:51,735 com.nick.HttpServer.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-20 17:21:54,902 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14075 连接上服务器
+2023-07-20 17:21:54,904 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14076 连接上服务器
+2023-07-20 17:21:54,965 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14077 连接上服务器
+2023-07-20 17:21:55,049 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14078 连接上服务器
+2023-07-20 17:21:55,052 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14079 连接上服务器
+2023-07-20 17:21:55,053 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14080 连接上服务器
+2023-07-20 17:21:55,053 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14081 连接上服务器
+2023-07-20 17:21:55,054 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14082 连接上服务器
+2023-07-20 17:21:55,055 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14083 连接上服务器
+2023-07-20 17:21:55,083 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14084 连接上服务器
+2023-07-20 17:21:55,095 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14085 连接上服务器
+2023-07-20 17:21:55,096 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14086 连接上服务器
+2023-07-20 17:21:55,097 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14087 连接上服务器
+2023-07-20 17:21:55,099 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14088 连接上服务器
+2023-07-20 17:21:55,102 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14089 连接上服务器
+2023-07-20 17:21:55,117 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14090 连接上服务器
+2023-07-20 17:21:55,124 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14091 连接上服务器
+2023-07-20 17:21:55,126 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14092 连接上服务器
+2023-07-20 17:21:55,362 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14093 连接上服务器
+2023-07-20 17:21:55,362 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14094 连接上服务器
+2023-07-20 17:21:55,414 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14095 连接上服务器
+2023-07-20 17:21:55,501 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14096 连接上服务器
+2023-07-20 17:21:55,502 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14097 连接上服务器
+2023-07-20 17:21:55,509 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14098 连接上服务器
+2023-07-20 17:21:55,513 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14099 连接上服务器
+2023-07-20 17:21:55,515 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14100 连接上服务器
+2023-07-20 17:21:55,515 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14101 连接上服务器
+2023-07-20 17:21:55,527 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14102 连接上服务器
+2023-07-20 17:21:55,529 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14103 连接上服务器
+2023-07-20 17:21:55,536 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14104 连接上服务器
+2023-07-20 17:21:55,551 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14105 连接上服务器
+2023-07-20 17:21:55,551 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14106 连接上服务器
+2023-07-20 17:21:55,559 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14107 连接上服务器
+2023-07-20 17:21:55,564 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14108 连接上服务器
+2023-07-20 17:21:55,565 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14109 连接上服务器
+2023-07-20 17:21:55,570 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14110 连接上服务器
+2023-07-20 17:21:55,801 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14111 连接上服务器
+2023-07-20 17:21:55,802 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14112 连接上服务器
+2023-07-20 17:21:55,856 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14113 连接上服务器
+2023-07-20 17:21:55,955 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14114 连接上服务器
+2023-07-20 17:21:55,958 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14115 连接上服务器
+2023-07-20 17:21:55,960 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14116 连接上服务器
+2023-07-20 17:21:55,968 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14117 连接上服务器
+2023-07-20 17:21:55,969 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14118 连接上服务器
+2023-07-20 17:21:55,970 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14119 连接上服务器
+2023-07-20 17:21:55,992 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14120 连接上服务器
+2023-07-20 17:21:56,009 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14121 连接上服务器
+2023-07-20 17:21:56,032 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14122 连接上服务器
+2023-07-20 17:21:56,032 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14123 连接上服务器
+2023-07-20 17:21:56,044 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14124 连接上服务器
+2023-07-20 17:21:56,047 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14125 连接上服务器
+2023-07-20 17:21:56,052 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14126 连接上服务器
+2023-07-20 17:21:56,075 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14127 连接上服务器
+2023-07-20 17:21:56,080 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14128 连接上服务器
+2023-07-20 17:21:57,978 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14130 连接上服务器
+2023-07-20 17:21:57,979 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14131 连接上服务器
+2023-07-20 17:21:58,025 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14132 连接上服务器
+2023-07-20 17:21:58,101 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14133 连接上服务器
+2023-07-20 17:21:58,107 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14134 连接上服务器
+2023-07-20 17:21:58,108 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14135 连接上服务器
+2023-07-20 17:21:58,109 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14136 连接上服务器
+2023-07-20 17:21:58,110 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14137 连接上服务器
+2023-07-20 17:21:58,111 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14138 连接上服务器
+2023-07-20 17:21:58,132 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14139 连接上服务器
+2023-07-20 17:21:58,132 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14140 连接上服务器
+2023-07-20 17:21:58,136 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14141 连接上服务器
+2023-07-20 17:21:58,140 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14142 连接上服务器
+2023-07-20 17:21:58,147 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14143 连接上服务器
+2023-07-20 17:21:58,147 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14144 连接上服务器
+2023-07-20 17:21:58,165 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14146 连接上服务器
+2023-07-20 17:21:58,170 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14147 连接上服务器
+2023-07-20 17:21:58,171 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14148 连接上服务器
+2023-07-20 17:21:58,211 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14149 连接上服务器
+2023-07-20 17:21:59,164 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14150 连接上服务器
+2023-07-20 17:21:59,164 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14151 连接上服务器
+2023-07-20 17:21:59,233 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14152 连接上服务器
+2023-07-20 17:21:59,318 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14153 连接上服务器
+2023-07-20 17:21:59,323 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14154 连接上服务器
+2023-07-20 17:21:59,323 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14155 连接上服务器
+2023-07-20 17:21:59,324 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14156 连接上服务器
+2023-07-20 17:21:59,325 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14157 连接上服务器
+2023-07-20 17:21:59,326 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14158 连接上服务器
+2023-07-20 17:21:59,345 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14159 连接上服务器
+2023-07-20 17:21:59,346 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14160 连接上服务器
+2023-07-20 17:21:59,347 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14161 连接上服务器
+2023-07-20 17:21:59,348 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14162 连接上服务器
+2023-07-20 17:21:59,353 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14163 连接上服务器
+2023-07-20 17:21:59,354 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14164 连接上服务器
+2023-07-20 17:21:59,377 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14165 连接上服务器
+2023-07-20 17:21:59,381 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14166 连接上服务器
+2023-07-20 17:21:59,385 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14167 连接上服务器
+2023-07-20 17:21:59,438 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14168 连接上服务器
+2023-07-20 17:21:59,793 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14169 连接上服务器
+2023-07-20 17:21:59,793 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14170 连接上服务器
+2023-07-20 17:21:59,855 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14171 连接上服务器
+2023-07-20 17:21:59,933 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14172 连接上服务器
+2023-07-20 17:21:59,934 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14173 连接上服务器
+2023-07-20 17:21:59,934 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14174 连接上服务器
+2023-07-20 17:21:59,935 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14175 连接上服务器
+2023-07-20 17:21:59,935 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14176 连接上服务器
+2023-07-20 17:21:59,936 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14177 连接上服务器
+2023-07-20 17:21:59,960 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14178 连接上服务器
+2023-07-20 17:21:59,961 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14179 连接上服务器
+2023-07-20 17:21:59,962 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14180 连接上服务器
+2023-07-20 17:21:59,964 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14181 连接上服务器
+2023-07-20 17:21:59,965 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14182 连接上服务器
+2023-07-20 17:21:59,965 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14183 连接上服务器
+2023-07-20 17:22:00,002 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14184 连接上服务器
+2023-07-20 17:22:00,004 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14185 连接上服务器
+2023-07-20 17:22:00,008 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14186 连接上服务器
+2023-07-20 17:22:00,061 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14187 连接上服务器
+2023-07-20 17:22:03,413 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14190 连接上服务器
+2023-07-20 17:22:03,413 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14191 连接上服务器
+2023-07-20 17:22:03,477 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14192 连接上服务器
+2023-07-20 17:22:03,559 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14193 连接上服务器
+2023-07-20 17:22:03,561 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14194 连接上服务器
+2023-07-20 17:22:03,562 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14195 连接上服务器
+2023-07-20 17:22:03,562 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14196 连接上服务器
+2023-07-20 17:22:03,563 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14197 连接上服务器
+2023-07-20 17:22:03,563 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14198 连接上服务器
+2023-07-20 17:22:03,593 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14199 连接上服务器
+2023-07-20 17:22:03,595 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14200 连接上服务器
+2023-07-20 17:22:03,597 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14201 连接上服务器
+2023-07-20 17:22:03,602 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14202 连接上服务器
+2023-07-20 17:22:03,608 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14203 连接上服务器
+2023-07-20 17:22:03,609 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14204 连接上服务器
+2023-07-20 17:22:03,630 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14205 连接上服务器
+2023-07-20 17:22:03,631 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14206 连接上服务器
+2023-07-20 17:22:03,635 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14207 连接上服务器
+2023-07-20 17:22:12,663 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14221 连接上服务器
+2023-07-20 17:22:12,664 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14222 连接上服务器
+2023-07-20 17:22:12,760 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14223 连接上服务器
+2023-07-20 17:22:12,849 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14224 连接上服务器
+2023-07-20 17:22:12,852 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14225 连接上服务器
+2023-07-20 17:22:12,854 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14226 连接上服务器
+2023-07-20 17:22:12,855 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14227 连接上服务器
+2023-07-20 17:22:12,858 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14228 连接上服务器
+2023-07-20 17:22:12,859 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14229 连接上服务器
+2023-07-20 17:22:12,876 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14230 连接上服务器
+2023-07-20 17:22:12,878 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14231 连接上服务器
+2023-07-20 17:22:12,886 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14232 连接上服务器
+2023-07-20 17:22:12,888 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14233 连接上服务器
+2023-07-20 17:22:12,889 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14234 连接上服务器
+2023-07-20 17:22:12,892 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14235 连接上服务器
+2023-07-20 17:22:12,899 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14236 连接上服务器
+2023-07-20 17:22:12,903 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14237 连接上服务器
+2023-07-20 17:22:12,906 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14238 连接上服务器
+2023-07-20 17:22:16,367 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14239 连接上服务器
+2023-07-20 17:22:19,281 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14242 连接上服务器
+2023-07-20 17:22:19,281 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14243 连接上服务器
+2023-07-20 17:22:19,338 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14244 连接上服务器
+2023-07-20 17:22:19,423 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14245 连接上服务器
+2023-07-20 17:22:19,425 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14246 连接上服务器
+2023-07-20 17:22:19,426 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14247 连接上服务器
+2023-07-20 17:22:19,428 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14248 连接上服务器
+2023-07-20 17:22:19,428 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14249 连接上服务器
+2023-07-20 17:22:19,430 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14250 连接上服务器
+2023-07-20 17:22:19,448 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14251 连接上服务器
+2023-07-20 17:22:19,451 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14252 连接上服务器
+2023-07-20 17:22:19,454 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14253 连接上服务器
+2023-07-20 17:22:19,455 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14254 连接上服务器
+2023-07-20 17:22:19,456 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14255 连接上服务器
+2023-07-20 17:22:19,459 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14256 连接上服务器
+2023-07-20 17:22:19,488 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14257 连接上服务器
+2023-07-20 17:22:19,496 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14258 连接上服务器
+2023-07-20 17:22:19,498 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14259 连接上服务器
+2023-07-20 17:22:47,469 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14276 连接上服务器
+2023-07-20 17:22:47,469 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14277 连接上服务器
+2023-07-20 17:22:47,557 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14278 连接上服务器
+2023-07-20 17:22:47,648 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14279 连接上服务器
+2023-07-20 17:22:47,648 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14280 连接上服务器
+2023-07-20 17:22:47,649 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14281 连接上服务器
+2023-07-20 17:22:47,649 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14282 连接上服务器
+2023-07-20 17:22:47,650 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14283 连接上服务器
+2023-07-20 17:22:47,650 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14284 连接上服务器
+2023-07-20 17:22:47,671 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14285 连接上服务器
+2023-07-20 17:22:47,674 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14286 连接上服务器
+2023-07-20 17:22:47,677 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14287 连接上服务器
+2023-07-20 17:22:47,680 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14288 连接上服务器
+2023-07-20 17:22:47,683 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14289 连接上服务器
+2023-07-20 17:22:47,686 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14290 连接上服务器
+2023-07-20 17:22:47,697 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14291 连接上服务器
+2023-07-20 17:22:47,701 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14292 连接上服务器
+2023-07-20 17:22:47,702 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14293 连接上服务器
+2023-07-20 17:22:47,703 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14294 连接上服务器
+2023-07-20 17:22:47,705 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14295 连接上服务器
+2023-07-20 17:22:47,707 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14296 连接上服务器
+2023-07-20 17:22:47,714 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14297 连接上服务器
+2023-07-20 17:22:47,717 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14298 连接上服务器
+2023-07-20 17:22:47,736 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14299 连接上服务器
+2023-07-20 17:22:47,738 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14300 连接上服务器
+2023-07-20 17:22:47,738 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14301 连接上服务器
+2023-07-20 17:22:49,794 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:14303 连接上服务器
+2023-07-21 09:29:02,533 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 09:29:02,586 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 09:48:16,637 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 09:48:16,676 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 09:48:56,857 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 09:48:56,901 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 09:57:11,797 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 09:57:11,828 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 09:57:33,560 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 09:57:33,608 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 09:59:12,952 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 09:59:13,000 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 09:59:28,965 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 09:59:29,012 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 09:59:55,704 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 09:59:55,748 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 10:00:42,831 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 10:00:42,864 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 10:01:03,845 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 10:01:03,890 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 10:04:33,829 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 10:04:33,853 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 10:09:39,743 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 10:09:39,784 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 10:14:13,327 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 10:14:13,363 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 10:24:00,330 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 10:24:00,376 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 10:28:06,669 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 10:28:06,717 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 11:20:11,328 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 11:20:11,388 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 11:20:55,252 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 11:20:55,298 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 11:20:57,884 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 11:20:57,933 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 11:22:25,177 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 11:22:25,219 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 11:23:37,312 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 11:23:37,348 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 11:25:13,659 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 11:25:13,686 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 11:25:25,537 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 11:25:25,566 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 11:25:25,572 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-21 11:25:44,636 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3164 连接上服务器
+2023-07-21 11:25:44,639 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3165 连接上服务器
+2023-07-21 11:25:44,754 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3166 连接上服务器
+2023-07-21 11:25:44,841 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3167 连接上服务器
+2023-07-21 11:25:44,842 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3168 连接上服务器
+2023-07-21 11:25:44,844 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3169 连接上服务器
+2023-07-21 11:25:44,846 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3170 连接上服务器
+2023-07-21 11:25:44,846 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3171 连接上服务器
+2023-07-21 11:25:44,851 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3172 连接上服务器
+2023-07-21 11:25:44,882 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3173 连接上服务器
+2023-07-21 11:25:44,897 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3174 连接上服务器
+2023-07-21 11:25:44,899 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3175 连接上服务器
+2023-07-21 11:25:44,901 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3176 连接上服务器
+2023-07-21 11:25:44,901 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3177 连接上服务器
+2023-07-21 11:25:44,902 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3178 连接上服务器
+2023-07-21 11:25:44,915 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3179 连接上服务器
+2023-07-21 11:25:44,926 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3180 连接上服务器
+2023-07-21 11:25:44,929 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3181 连接上服务器
+2023-07-21 11:25:44,943 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3182 连接上服务器
+2023-07-21 11:25:44,945 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3183 连接上服务器
+2023-07-21 11:25:44,946 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3184 连接上服务器
+2023-07-21 11:25:44,946 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3185 连接上服务器
+2023-07-21 11:25:44,952 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3188 连接上服务器
+2023-07-21 11:25:44,954 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3189 连接上服务器
+2023-07-21 11:25:44,969 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3190 连接上服务器
+2023-07-21 11:25:44,969 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3191 连接上服务器
+2023-07-21 11:25:45,004 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3193 连接上服务器
+2023-07-21 11:26:02,592 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3195 连接上服务器
+2023-07-21 11:26:02,593 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3196 连接上服务器
+2023-07-21 11:29:15,162 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 11:29:15,206 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 11:30:48,302 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-21 11:30:54,895 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 11:30:54,939 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 11:30:59,601 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-21 11:31:00,607 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 11:31:00,639 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 11:31:00,642 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-21 11:31:06,144 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3237 连接上服务器
+2023-07-21 11:31:06,147 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:3238 连接上服务器
+2023-07-21 11:37:26,023 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 11:37:26,117 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 11:39:05,209 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 11:39:05,254 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 11:39:19,418 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 11:39:19,448 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 11:57:21,865 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 11:57:21,914 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 14:05:21,030 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 14:05:21,098 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 14:14:40,639 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 14:14:40,672 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 14:14:40,700 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: NickHttpServlet.class
+2023-07-21 14:14:40,715 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: NickHttpServletRequest.class
+2023-07-21 14:14:40,731 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: NickHttpServletResponse.class
+2023-07-21 14:14:40,732 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: NickServlet.class
+2023-07-21 14:14:40,732 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: NickServletRequest.class
+2023-07-21 14:14:40,732 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: NickServletResponse.class
+2023-07-21 14:14:40,740 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: NickWebServlet.class
+2023-07-21 14:14:40,749 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: TaskService.class
+2023-07-21 14:14:40,749 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: TomcatServer$1.class
+2023-07-21 14:14:40,750 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: TomcatServer.class
+2023-07-21 14:14:40,759 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: NickHttpServletRequest.class
+2023-07-21 14:14:40,768 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: NickHttpServletResponse.class
+2023-07-21 14:14:40,777 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: TaskService.class
+2023-07-21 14:14:40,785 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: TomcatServer.class
+2023-07-21 14:14:40,794 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: HelloServlet.class
+2023-07-21 14:15:19,397 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 14:15:19,424 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 14:15:19,431 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.Dynamic.javax.servlet.http.NickHttpServlet
+2023-07-21 14:15:19,433 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.Dynamic.javax.servlet.http.NickHttpServletRequest
+2023-07-21 14:15:19,435 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.Dynamic.javax.servlet.http.NickHttpServletResponse
+2023-07-21 14:15:19,435 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.Dynamic.javax.servlet.NickServlet
+2023-07-21 14:15:19,435 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.Dynamic.javax.servlet.NickServletRequest
+2023-07-21 14:15:19,436 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.Dynamic.javax.servlet.NickServletResponse
+2023-07-21 14:15:19,437 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.Dynamic.javax.servlet.NickWebServlet
+2023-07-21 14:15:19,438 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.Dynamic.javax.TaskService
+2023-07-21 14:15:19,438 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.Dynamic.javax.TomcatServer$1
+2023-07-21 14:15:19,440 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.Dynamic.javax.TomcatServer
+2023-07-21 14:15:19,440 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.HttpServer.NickHttpServletRequest
+2023-07-21 14:15:19,441 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.HttpServer.NickHttpServletResponse
+2023-07-21 14:15:19,442 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.HttpServer.TaskService
+2023-07-21 14:15:19,443 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.HttpServer.TomcatServer
+2023-07-21 14:15:19,444 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.wowotuan.HelloServlet
+2023-07-21 14:17:51,336 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 14:17:51,367 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 14:17:51,393 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.wowotuan.HelloServlet
+2023-07-21 14:29:07,951 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 14:29:07,985 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 14:30:37,368 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 14:30:37,395 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 14:33:59,172 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 14:33:59,198 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 14:33:59,242 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-21 14:34:21,690 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 14:34:21,713 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 14:34:49,235 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 14:34:49,262 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 14:34:49,287 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.wowotuan.ByeServlet
+2023-07-21 14:34:49,288 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.wowotuan.HelloServlet
+2023-07-21 14:34:49,289 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-21 14:55:34,557 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 14:55:34,584 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 14:55:34,629 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.wowotuan.ByeServlet
+2023-07-21 14:55:34,631 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.wowotuan.HelloServlet
+2023-07-21 14:55:34,632 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-21 14:55:48,831 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5546 连接上服务器
+2023-07-21 14:55:48,834 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5547 连接上服务器
+2023-07-21 14:55:48,942 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5548 连接上服务器
+2023-07-21 14:55:49,040 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5549 连接上服务器
+2023-07-21 14:55:49,042 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5550 连接上服务器
+2023-07-21 14:55:49,045 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5551 连接上服务器
+2023-07-21 14:55:49,046 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5552 连接上服务器
+2023-07-21 14:55:49,046 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5553 连接上服务器
+2023-07-21 14:55:49,047 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5554 连接上服务器
+2023-07-21 14:55:49,071 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5555 连接上服务器
+2023-07-21 14:55:49,073 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5556 连接上服务器
+2023-07-21 14:55:49,084 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5557 连接上服务器
+2023-07-21 14:55:49,087 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5558 连接上服务器
+2023-07-21 14:55:49,089 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5559 连接上服务器
+2023-07-21 14:55:49,089 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5560 连接上服务器
+2023-07-21 14:55:49,099 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5561 连接上服务器
+2023-07-21 14:55:49,101 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5562 连接上服务器
+2023-07-21 14:55:49,102 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5563 连接上服务器
+2023-07-21 14:55:49,105 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5564 连接上服务器
+2023-07-21 14:55:49,119 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5565 连接上服务器
+2023-07-21 14:55:49,120 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5566 连接上服务器
+2023-07-21 14:55:49,121 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5567 连接上服务器
+2023-07-21 14:55:49,123 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5568 连接上服务器
+2023-07-21 14:55:49,130 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5569 连接上服务器
+2023-07-21 14:55:49,130 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5570 连接上服务器
+2023-07-21 14:55:49,138 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5571 连接上服务器
+2023-07-21 14:55:49,193 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5575 连接上服务器
+2023-07-21 14:56:19,888 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5589 连接上服务器
+2023-07-21 14:56:24,496 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5590 连接上服务器
+2023-07-21 14:56:24,571 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5591 连接上服务器
+2023-07-21 14:56:24,611 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5592 连接上服务器
+2023-07-21 14:56:24,612 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5593 连接上服务器
+2023-07-21 14:56:24,612 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5594 连接上服务器
+2023-07-21 14:56:24,613 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5595 连接上服务器
+2023-07-21 14:56:24,614 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5596 连接上服务器
+2023-07-21 14:56:24,615 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5597 连接上服务器
+2023-07-21 14:56:24,630 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5598 连接上服务器
+2023-07-21 14:56:24,631 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5599 连接上服务器
+2023-07-21 14:56:24,639 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5600 连接上服务器
+2023-07-21 14:56:24,641 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5601 连接上服务器
+2023-07-21 14:56:24,641 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5602 连接上服务器
+2023-07-21 14:56:24,642 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5603 连接上服务器
+2023-07-21 14:56:40,069 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5610 连接上服务器
+2023-07-21 14:56:41,951 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5614 连接上服务器
+2023-07-21 14:56:41,952 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5615 连接上服务器
+2023-07-21 14:56:42,014 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5616 连接上服务器
+2023-07-21 14:56:42,103 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5618 连接上服务器
+2023-07-21 14:56:42,104 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5619 连接上服务器
+2023-07-21 14:56:42,105 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5620 连接上服务器
+2023-07-21 14:56:42,106 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5621 连接上服务器
+2023-07-21 14:56:42,107 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5622 连接上服务器
+2023-07-21 14:56:42,107 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5623 连接上服务器
+2023-07-21 14:56:42,130 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5624 连接上服务器
+2023-07-21 14:56:42,135 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5625 连接上服务器
+2023-07-21 14:56:42,137 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5626 连接上服务器
+2023-07-21 14:56:42,137 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5627 连接上服务器
+2023-07-21 14:56:42,138 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5628 连接上服务器
+2023-07-21 14:56:42,139 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5629 连接上服务器
+2023-07-21 14:57:44,487 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 14:57:44,514 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 14:57:44,550 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.wowotuan.ByeServlet
+2023-07-21 14:57:44,552 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.wowotuan.HelloServlet
+2023-07-21 14:57:44,553 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-21 14:57:47,842 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5669 连接上服务器
+2023-07-21 14:57:47,843 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5670 连接上服务器
+2023-07-21 14:57:47,940 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5671 连接上服务器
+2023-07-21 14:57:48,031 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5672 连接上服务器
+2023-07-21 14:57:48,031 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5673 连接上服务器
+2023-07-21 14:57:48,032 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5674 连接上服务器
+2023-07-21 14:57:48,032 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5675 连接上服务器
+2023-07-21 14:57:48,033 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5676 连接上服务器
+2023-07-21 14:57:48,033 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5677 连接上服务器
+2023-07-21 14:57:48,064 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5678 连接上服务器
+2023-07-21 14:57:48,064 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5679 连接上服务器
+2023-07-21 14:57:48,065 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5680 连接上服务器
+2023-07-21 14:57:48,066 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5681 连接上服务器
+2023-07-21 14:57:48,067 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5682 连接上服务器
+2023-07-21 14:57:48,068 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5683 连接上服务器
+2023-07-21 14:57:48,092 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5684 连接上服务器
+2023-07-21 14:57:48,098 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5686 连接上服务器
+2023-07-21 14:57:48,100 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5687 连接上服务器
+2023-07-21 14:57:48,102 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5688 连接上服务器
+2023-07-21 14:57:48,105 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5689 连接上服务器
+2023-07-21 14:57:48,106 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5690 连接上服务器
+2023-07-21 14:57:48,109 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5691 连接上服务器
+2023-07-21 14:57:48,119 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5692 连接上服务器
+2023-07-21 14:57:48,121 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5693 连接上服务器
+2023-07-21 14:57:48,124 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5694 连接上服务器
+2023-07-21 14:57:48,130 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5695 连接上服务器
+2023-07-21 14:57:48,130 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5696 连接上服务器
+2023-07-21 14:57:59,075 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5751 连接上服务器
+2023-07-21 14:57:59,193 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5752 连接上服务器
+2023-07-21 14:57:59,251 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5753 连接上服务器
+2023-07-21 14:57:59,311 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5754 连接上服务器
+2023-07-21 14:57:59,312 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5755 连接上服务器
+2023-07-21 14:57:59,318 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5756 连接上服务器
+2023-07-21 14:57:59,325 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5757 连接上服务器
+2023-07-21 14:57:59,327 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5758 连接上服务器
+2023-07-21 14:57:59,329 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5759 连接上服务器
+2023-07-21 14:57:59,333 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5760 连接上服务器
+2023-07-21 14:57:59,333 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5761 连接上服务器
+2023-07-21 14:58:00,269 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5765 连接上服务器
+2023-07-21 14:58:00,703 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5766 连接上服务器
+2023-07-21 14:58:00,747 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5767 连接上服务器
+2023-07-21 14:58:00,784 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5768 连接上服务器
+2023-07-21 14:58:00,785 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5769 连接上服务器
+2023-07-21 14:58:00,805 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5770 连接上服务器
+2023-07-21 14:58:00,821 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5771 连接上服务器
+2023-07-21 14:58:00,821 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5772 连接上服务器
+2023-07-21 14:58:00,823 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5773 连接上服务器
+2023-07-21 14:58:00,823 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5774 连接上服务器
+2023-07-21 14:58:00,825 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:5775 连接上服务器
+2023-07-21 15:41:24,166 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 15:41:24,194 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 15:41:24,268 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.wowotuan.ByeServlet
+2023-07-21 15:41:24,270 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.wowotuan.HelloServlet
+2023-07-21 15:41:24,271 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-21 15:41:30,444 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6285 连接上服务器
+2023-07-21 15:41:30,444 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6286 连接上服务器
+2023-07-21 15:41:30,519 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6287 连接上服务器
+2023-07-21 15:41:30,569 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6288 连接上服务器
+2023-07-21 15:41:30,571 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6289 连接上服务器
+2023-07-21 15:41:30,573 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6290 连接上服务器
+2023-07-21 15:41:30,574 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6291 连接上服务器
+2023-07-21 15:41:30,575 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6292 连接上服务器
+2023-07-21 15:41:30,576 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6293 连接上服务器
+2023-07-21 15:41:30,597 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6294 连接上服务器
+2023-07-21 15:41:30,603 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6295 连接上服务器
+2023-07-21 15:41:30,604 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6296 连接上服务器
+2023-07-21 15:41:30,605 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6297 连接上服务器
+2023-07-21 15:41:30,606 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6298 连接上服务器
+2023-07-21 15:41:30,607 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6299 连接上服务器
+2023-07-21 15:41:30,615 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6300 连接上服务器
+2023-07-21 15:41:30,617 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6301 连接上服务器
+2023-07-21 15:41:30,620 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6302 连接上服务器
+2023-07-21 15:41:30,621 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6303 连接上服务器
+2023-07-21 15:41:30,622 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6304 连接上服务器
+2023-07-21 15:41:30,624 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6305 连接上服务器
+2023-07-21 15:41:30,635 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6306 连接上服务器
+2023-07-21 15:41:30,650 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6307 连接上服务器
+2023-07-21 15:41:30,650 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6308 连接上服务器
+2023-07-21 15:41:30,653 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6309 连接上服务器
+2023-07-21 15:41:30,655 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6310 连接上服务器
+2023-07-21 15:41:47,943 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6384 连接上服务器
+2023-07-21 15:41:48,089 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6385 连接上服务器
+2023-07-21 15:41:48,093 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6386 连接上服务器
+2023-07-21 15:41:48,094 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6387 连接上服务器
+2023-07-21 15:41:48,096 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6388 连接上服务器
+2023-07-21 15:41:48,102 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6389 连接上服务器
+2023-07-21 15:41:48,102 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6390 连接上服务器
+2023-07-21 15:41:48,102 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6391 连接上服务器
+2023-07-21 15:41:48,103 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6392 连接上服务器
+2023-07-21 15:41:48,105 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6393 连接上服务器
+2023-07-21 15:41:48,108 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6394 连接上服务器
+2023-07-21 15:41:48,108 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6395 连接上服务器
+2023-07-21 15:41:48,109 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6396 连接上服务器
+2023-07-21 15:41:48,109 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6397 连接上服务器
+2023-07-21 15:41:48,110 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6398 连接上服务器
+2023-07-21 15:41:48,112 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6399 连接上服务器
+2023-07-21 15:41:48,113 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6400 连接上服务器
+2023-07-21 15:41:48,114 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6401 连接上服务器
+2023-07-21 15:41:48,156 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6402 连接上服务器
+2023-07-21 15:41:48,157 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6403 连接上服务器
+2023-07-21 15:41:48,157 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6404 连接上服务器
+2023-07-21 15:41:48,159 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6405 连接上服务器
+2023-07-21 15:41:48,159 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6406 连接上服务器
+2023-07-21 15:41:48,160 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6407 连接上服务器
+2023-07-21 15:41:48,163 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6408 连接上服务器
+2023-07-21 15:41:48,164 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6409 连接上服务器
+2023-07-21 15:41:48,183 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6410 连接上服务器
+2023-07-21 15:41:48,996 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6412 连接上服务器
+2023-07-21 15:42:02,813 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 15:42:02,843 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 15:42:02,871 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.wowotuan.ByeServlet
+2023-07-21 15:42:02,872 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.wowotuan.HelloServlet
+2023-07-21 15:42:02,872 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-21 15:42:04,381 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6451 连接上服务器
+2023-07-21 15:42:06,459 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6452 连接上服务器
+2023-07-21 15:42:06,537 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6453 连接上服务器
+2023-07-21 15:42:06,538 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6454 连接上服务器
+2023-07-21 15:42:06,538 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6455 连接上服务器
+2023-07-21 15:42:06,538 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6456 连接上服务器
+2023-07-21 15:42:06,539 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6457 连接上服务器
+2023-07-21 15:42:06,539 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6458 连接上服务器
+2023-07-21 15:42:06,550 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6459 连接上服务器
+2023-07-21 15:42:06,551 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6460 连接上服务器
+2023-07-21 15:42:06,552 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6461 连接上服务器
+2023-07-21 15:42:06,553 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6462 连接上服务器
+2023-07-21 15:42:06,554 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6463 连接上服务器
+2023-07-21 15:42:06,556 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6464 连接上服务器
+2023-07-21 15:42:06,557 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6465 连接上服务器
+2023-07-21 15:42:06,558 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6466 连接上服务器
+2023-07-21 15:42:06,559 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6467 连接上服务器
+2023-07-21 15:42:06,561 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6468 连接上服务器
+2023-07-21 15:42:06,563 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6469 连接上服务器
+2023-07-21 15:42:06,565 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6470 连接上服务器
+2023-07-21 15:42:06,566 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6471 连接上服务器
+2023-07-21 15:42:06,568 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6472 连接上服务器
+2023-07-21 15:42:06,572 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6473 连接上服务器
+2023-07-21 15:42:06,573 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6474 连接上服务器
+2023-07-21 15:42:06,574 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6475 连接上服务器
+2023-07-21 15:42:06,574 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6476 连接上服务器
+2023-07-21 15:42:06,623 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6477 连接上服务器
+2023-07-21 15:42:07,228 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6478 连接上服务器
+2023-07-21 15:42:29,221 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 15:42:29,267 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 15:42:29,303 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.wowotuan.ByeServlet
+2023-07-21 15:42:29,305 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.wowotuan.HelloServlet
+2023-07-21 15:42:29,313 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-21 15:42:31,289 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6496 连接上服务器
+2023-07-21 15:43:07,077 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6502 连接上服务器
+2023-07-21 15:43:07,078 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6503 连接上服务器
+2023-07-21 15:43:30,573 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6504 连接上服务器
+2023-07-21 15:43:30,574 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6507 连接上服务器
+2023-07-21 15:43:30,576 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6508 连接上服务器
+2023-07-21 15:43:30,576 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6509 连接上服务器
+2023-07-21 15:43:30,585 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6511 连接上服务器
+2023-07-21 15:43:30,588 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6512 连接上服务器
+2023-07-21 15:43:30,590 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6513 连接上服务器
+2023-07-21 15:43:30,592 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6514 连接上服务器
+2023-07-21 15:43:30,595 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6515 连接上服务器
+2023-07-21 15:43:30,598 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6516 连接上服务器
+2023-07-21 15:43:30,599 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6517 连接上服务器
+2023-07-21 15:43:30,601 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6518 连接上服务器
+2023-07-21 15:43:31,969 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 15:43:31,997 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 15:43:32,023 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.wowotuan.ByeServlet
+2023-07-21 15:43:32,025 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.wowotuan.HelloServlet
+2023-07-21 15:43:32,026 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-21 15:43:37,397 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6525 连接上服务器
+2023-07-21 15:43:37,412 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6526 连接上服务器
+2023-07-21 15:43:37,414 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6527 连接上服务器
+2023-07-21 15:43:37,415 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6528 连接上服务器
+2023-07-21 15:43:37,417 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6529 连接上服务器
+2023-07-21 15:43:37,418 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6530 连接上服务器
+2023-07-21 15:43:37,419 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6531 连接上服务器
+2023-07-21 15:43:37,421 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6532 连接上服务器
+2023-07-21 15:43:37,424 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6533 连接上服务器
+2023-07-21 15:43:37,426 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:6534 连接上服务器
+2023-07-21 15:43:58,520 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6557 连接上服务器
+2023-07-21 15:43:58,521 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6558 连接上服务器
+2023-07-21 15:43:58,537 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6559 连接上服务器
+2023-07-21 15:43:59,667 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6560 连接上服务器
+2023-07-21 15:43:59,668 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6561 连接上服务器
+2023-07-21 15:43:59,673 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6562 连接上服务器
+2023-07-21 15:44:00,173 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6563 连接上服务器
+2023-07-21 15:44:00,174 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6564 连接上服务器
+2023-07-21 15:44:00,180 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6565 连接上服务器
+2023-07-21 15:44:00,584 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6566 连接上服务器
+2023-07-21 15:44:00,586 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6567 连接上服务器
+2023-07-21 15:44:00,592 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6568 连接上服务器
+2023-07-21 15:44:00,768 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6569 连接上服务器
+2023-07-21 15:44:00,768 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6570 连接上服务器
+2023-07-21 15:44:00,775 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6571 连接上服务器
+2023-07-21 15:44:00,932 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6572 连接上服务器
+2023-07-21 15:44:00,933 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6573 连接上服务器
+2023-07-21 15:44:00,939 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6574 连接上服务器
+2023-07-21 15:44:01,077 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6575 连接上服务器
+2023-07-21 15:44:01,078 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6576 连接上服务器
+2023-07-21 15:44:01,083 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6577 连接上服务器
+2023-07-21 15:44:01,248 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6578 连接上服务器
+2023-07-21 15:44:01,248 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6579 连接上服务器
+2023-07-21 15:44:01,255 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6580 连接上服务器
+2023-07-21 15:44:01,706 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6581 连接上服务器
+2023-07-21 15:44:01,707 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6582 连接上服务器
+2023-07-21 15:44:01,714 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6583 连接上服务器
+2023-07-21 15:44:01,886 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6584 连接上服务器
+2023-07-21 15:44:01,887 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6585 连接上服务器
+2023-07-21 15:44:01,892 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6586 连接上服务器
+2023-07-21 15:44:02,053 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6587 连接上服务器
+2023-07-21 15:44:02,054 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6588 连接上服务器
+2023-07-21 15:44:02,059 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6589 连接上服务器
+2023-07-21 15:45:10,643 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6612 连接上服务器
+2023-07-21 15:45:10,644 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6613 连接上服务器
+2023-07-21 15:45:10,649 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6614 连接上服务器
+2023-07-21 15:45:22,338 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 15:45:22,366 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 15:45:22,398 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.wowotuan.ByeServlet
+2023-07-21 15:45:22,400 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.wowotuan.HelloServlet
+2023-07-21 15:45:22,401 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-21 15:45:26,185 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6622 连接上服务器
+2023-07-21 15:45:26,186 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6623 连接上服务器
+2023-07-21 15:46:24,938 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 15:46:24,965 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 15:46:25,007 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.wowotuan.ByeServlet
+2023-07-21 15:46:25,009 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.wowotuan.HelloServlet
+2023-07-21 15:46:25,009 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-21 15:46:29,673 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6645 连接上服务器
+2023-07-21 15:46:29,673 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6646 连接上服务器
+2023-07-21 15:52:26,541 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 15:52:26,569 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 15:52:26,613 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.wowotuan.ByeServlet
+2023-07-21 15:52:26,614 com.nick.Dynamic.javax.TomcatServer [main] INFO 加载了一个类: com.nick.wowotuan.HelloServlet
+2023-07-21 15:52:26,615 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-21 15:52:33,692 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6745 连接上服务器
+2023-07-21 15:52:33,693 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6746 连接上服务器
+2023-07-21 15:52:33,697 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6747 连接上服务器
+2023-07-21 15:52:34,751 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6748 连接上服务器
+2023-07-21 15:52:34,752 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6749 连接上服务器
+2023-07-21 15:52:34,759 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6750 连接上服务器
+2023-07-21 15:52:39,795 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6751 连接上服务器
+2023-07-21 15:52:39,795 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6752 连接上服务器
+2023-07-21 15:52:39,802 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6753 连接上服务器
+2023-07-21 15:53:09,843 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6756 连接上服务器
+2023-07-21 15:53:09,845 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6757 连接上服务器
+2023-07-21 15:53:09,853 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6758 连接上服务器
+2023-07-21 15:53:39,107 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 15:53:39,133 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 15:53:39,175 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-21 15:53:44,812 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6769 连接上服务器
+2023-07-21 15:53:44,813 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6770 连接上服务器
+2023-07-21 15:53:44,817 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6771 连接上服务器
+2023-07-21 15:55:20,668 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 15:55:20,696 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 15:55:20,743 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-21 15:55:26,571 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6786 连接上服务器
+2023-07-21 15:55:26,572 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6787 连接上服务器
+2023-07-21 15:55:26,577 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6788 连接上服务器
+2023-07-21 15:55:48,588 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6793 连接上服务器
+2023-07-21 15:55:48,588 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6794 连接上服务器
+2023-07-21 15:55:48,592 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6795 连接上服务器
+2023-07-21 15:55:49,633 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6796 连接上服务器
+2023-07-21 15:55:49,633 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6797 连接上服务器
+2023-07-21 15:55:49,640 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6798 连接上服务器
+2023-07-21 15:55:54,671 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6800 连接上服务器
+2023-07-21 15:55:54,671 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6801 连接上服务器
+2023-07-21 15:55:54,676 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6802 连接上服务器
+2023-07-21 16:03:44,231 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 16:03:44,260 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 16:03:44,296 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-21 16:03:53,335 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6871 连接上服务器
+2023-07-21 16:03:53,336 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6872 连接上服务器
+2023-07-21 16:04:07,409 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 16:04:07,437 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 16:04:07,484 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-21 16:04:10,892 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6879 连接上服务器
+2023-07-21 16:04:10,893 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6880 连接上服务器
+2023-07-21 16:04:15,706 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6881 连接上服务器
+2023-07-21 16:04:21,821 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 16:04:21,845 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 16:04:21,871 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-21 16:04:27,013 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6888 连接上服务器
+2023-07-21 16:04:27,014 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6889 连接上服务器
+2023-07-21 16:04:41,904 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 16:04:41,928 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 16:04:41,965 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-21 16:04:46,378 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6897 连接上服务器
+2023-07-21 16:04:46,379 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6898 连接上服务器
+2023-07-21 16:04:48,829 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6899 连接上服务器
+2023-07-21 16:05:04,967 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6901 连接上服务器
+2023-07-21 16:05:05,171 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6902 连接上服务器
+2023-07-21 16:05:05,342 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:6903 连接上服务器
+2023-07-21 16:40:35,548 com.nick.HttpServer.TomcatServer [main] INFO 程序启动...
+2023-07-21 16:40:35,571 com.nick.HttpServer.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-21 16:40:43,392 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7710 连接上服务器
+2023-07-21 16:40:46,715 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7711 连接上服务器
+2023-07-21 16:40:46,723 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7712 连接上服务器
+2023-07-21 16:40:46,724 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7713 连接上服务器
+2023-07-21 16:40:46,725 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7714 连接上服务器
+2023-07-21 16:40:46,725 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7715 连接上服务器
+2023-07-21 16:40:46,725 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7716 连接上服务器
+2023-07-21 16:40:46,726 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7717 连接上服务器
+2023-07-21 16:40:46,732 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7718 连接上服务器
+2023-07-21 16:40:46,743 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7719 连接上服务器
+2023-07-21 16:40:46,743 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7720 连接上服务器
+2023-07-21 16:40:46,744 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7721 连接上服务器
+2023-07-21 16:40:46,745 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7722 连接上服务器
+2023-07-21 16:40:46,745 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7723 连接上服务器
+2023-07-21 16:40:46,747 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7724 连接上服务器
+2023-07-21 16:40:46,747 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7725 连接上服务器
+2023-07-21 16:40:46,748 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7726 连接上服务器
+2023-07-21 16:40:46,750 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7727 连接上服务器
+2023-07-21 16:40:46,780 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7728 连接上服务器
+2023-07-21 16:40:46,781 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7729 连接上服务器
+2023-07-21 16:40:46,782 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7730 连接上服务器
+2023-07-21 16:40:46,782 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7731 连接上服务器
+2023-07-21 16:40:46,783 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7732 连接上服务器
+2023-07-21 16:40:46,783 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7733 连接上服务器
+2023-07-21 16:40:46,786 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7734 连接上服务器
+2023-07-21 16:40:46,791 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7735 连接上服务器
+2023-07-21 16:40:46,824 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7736 连接上服务器
+2023-07-21 16:40:47,737 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7737 连接上服务器
+2023-07-21 16:41:39,847 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 16:41:39,871 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 16:41:39,903 com.nick.Dynamic.javax.TomcatServer [main] ERROR 服务器套接字创建失败
+2023-07-21 16:42:00,705 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 16:42:00,739 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 16:42:00,768 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-21 16:42:03,842 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/127.0.0.1:7821 连接上服务器
+2023-07-21 16:44:46,509 com.nick.HttpServer.TomcatServer [main] INFO 程序启动...
+2023-07-21 16:44:46,535 com.nick.HttpServer.TomcatServer [main] ERROR 服务器套接字创建失败
+2023-07-21 16:45:19,224 com.nick.HttpServer.TomcatServer [main] INFO 程序启动...
+2023-07-21 16:45:19,247 com.nick.HttpServer.TomcatServer [main] ERROR 服务器套接字创建失败
+2023-07-21 16:45:33,177 com.nick.HttpServer.TomcatServer [main] INFO 程序启动...
+2023-07-21 16:45:33,202 com.nick.HttpServer.TomcatServer [main] ERROR 服务器套接字创建失败
+2023-07-21 16:46:33,561 com.nick.HttpServer.TomcatServer [main] INFO 程序启动...
+2023-07-21 16:46:33,587 com.nick.HttpServer.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-21 16:46:40,851 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:8271 连接上服务器
+2023-07-21 16:46:42,392 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:8274 连接上服务器
+2023-07-21 16:46:42,399 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:8275 连接上服务器
+2023-07-21 16:46:42,399 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:8276 连接上服务器
+2023-07-21 16:46:42,400 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:8277 连接上服务器
+2023-07-21 16:46:42,401 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:8278 连接上服务器
+2023-07-21 16:46:42,401 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:8279 连接上服务器
+2023-07-21 16:46:42,402 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:8280 连接上服务器
+2023-07-21 16:46:42,417 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:8281 连接上服务器
+2023-07-21 16:46:42,418 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:8282 连接上服务器
+2023-07-21 16:46:42,419 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:8283 连接上服务器
+2023-07-21 16:46:42,420 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:8284 连接上服务器
+2023-07-21 16:46:42,421 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:8285 连接上服务器
+2023-07-21 16:46:42,424 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:8286 连接上服务器
+2023-07-21 16:46:42,426 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:8287 连接上服务器
+2023-07-21 16:46:42,426 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:8288 连接上服务器
+2023-07-21 16:46:42,427 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:8289 连接上服务器
+2023-07-21 16:46:42,428 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:8290 连接上服务器
+2023-07-21 16:46:42,461 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:8291 连接上服务器
+2023-07-21 16:46:42,462 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:8292 连接上服务器
+2023-07-21 16:46:42,462 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:8293 连接上服务器
+2023-07-21 16:46:42,463 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:8294 连接上服务器
+2023-07-21 16:46:42,464 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:8295 连接上服务器
+2023-07-21 16:46:42,464 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:8296 连接上服务器
+2023-07-21 16:46:42,468 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:8297 连接上服务器
+2023-07-21 16:46:42,469 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:8298 连接上服务器
+2023-07-21 16:46:43,201 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/127.0.0.1:8301 连接上服务器
+2023-07-21 16:53:46,696 com.nick.HttpServer.TomcatServer [main] INFO 程序启动...
+2023-07-21 16:53:46,723 com.nick.HttpServer.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-21 16:53:53,818 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:8592 连接上服务器
+2023-07-21 16:53:53,820 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:8593 连接上服务器
+2023-07-21 16:54:15,750 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:8604 连接上服务器
+2023-07-21 16:54:16,495 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:8606 连接上服务器
+2023-07-21 16:54:16,688 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:8607 连接上服务器
+2023-07-21 16:54:16,873 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:8608 连接上服务器
+2023-07-21 16:54:22,404 com.nick.HttpServer.TomcatServer [main] INFO 程序启动...
+2023-07-21 16:54:22,427 com.nick.HttpServer.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-21 16:54:30,197 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:8622 连接上服务器
+2023-07-21 16:54:30,198 com.nick.HttpServer.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:8623 连接上服务器
+2023-07-21 17:00:52,820 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 17:00:52,844 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 17:00:52,894 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-21 17:01:12,527 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:8931 连接上服务器
+2023-07-21 17:01:12,528 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:8932 连接上服务器
+2023-07-21 17:01:44,223 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端：/0:0:0:0:0:0:0:1:8942 连接上服务器
+2023-07-21 17:29:02,449 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-21 17:29:02,473 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-21 17:29:02,501 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-22 10:24:24,984 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-22 10:24:25,031 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-22 10:24:25,219 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-22 10:25:06,146 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-22 10:25:06,175 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-22 10:25:06,214 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-22 10:41:50,102 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-22 10:41:50,128 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-22 10:41:50,169 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-22 10:58:33,802 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-22 10:58:33,850 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-22 10:58:33,919 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-27 11:28:59,613 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-27 11:28:59,662 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-27 11:28:59,887 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-27 11:29:19,022 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-27 11:29:19,059 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-27 11:29:19,094 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-27 11:30:46,857 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-27 11:30:46,898 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-27 11:30:46,943 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-27 11:30:50,039 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:5907 连接上服务器
+2023-07-27 11:31:32,793 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-27 11:31:32,805 com.nick.Dynamic.javax.TomcatServer [main] ERROR 服务器套接字创建失败
+2023-07-27 11:31:52,790 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-27 11:31:52,834 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-27 11:31:52,896 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-27 11:34:50,639 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:5971 连接上服务器
+2023-07-27 11:35:24,775 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:5972 连接上服务器
+2023-07-27 11:35:36,995 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-27 11:35:37,023 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-27 11:35:37,059 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-27 11:36:05,675 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6002 连接上服务器
+2023-07-27 11:36:05,677 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6003 连接上服务器
+2023-07-27 11:36:05,797 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6004 连接上服务器
+2023-07-27 11:36:05,872 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6005 连接上服务器
+2023-07-27 11:36:05,876 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6006 连接上服务器
+2023-07-27 11:36:05,878 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6007 连接上服务器
+2023-07-27 11:36:05,879 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6008 连接上服务器
+2023-07-27 11:36:05,879 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6009 连接上服务器
+2023-07-27 11:36:05,880 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6010 连接上服务器
+2023-07-27 11:36:05,933 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6011 连接上服务器
+2023-07-27 11:36:05,936 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6012 连接上服务器
+2023-07-27 11:36:05,937 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6013 连接上服务器
+2023-07-27 11:36:05,953 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6014 连接上服务器
+2023-07-27 11:36:05,955 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6015 连接上服务器
+2023-07-27 11:36:05,957 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6016 连接上服务器
+2023-07-27 11:36:05,964 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6017 连接上服务器
+2023-07-27 11:36:05,966 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6018 连接上服务器
+2023-07-27 11:36:05,967 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6019 连接上服务器
+2023-07-27 11:36:05,979 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6020 连接上服务器
+2023-07-27 11:36:05,994 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6021 连接上服务器
+2023-07-27 11:36:05,995 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6022 连接上服务器
+2023-07-27 11:36:05,998 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6023 连接上服务器
+2023-07-27 11:36:06,005 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6024 连接上服务器
+2023-07-27 11:36:06,006 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6025 连接上服务器
+2023-07-27 11:36:06,007 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6026 连接上服务器
+2023-07-27 11:36:06,013 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6027 连接上服务器
+2023-07-27 11:36:06,072 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6029 连接上服务器
+2023-07-27 11:36:06,914 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6031 连接上服务器
+2023-07-27 11:36:23,794 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6035 连接上服务器
+2023-07-27 11:41:28,158 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-27 11:41:28,198 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-27 11:41:28,237 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-27 11:41:30,742 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6220 连接上服务器
+2023-07-27 11:41:52,880 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6221 连接上服务器
+2023-07-27 11:41:54,224 com.nick.Dynamic.javax.TomcatServer [main] INFO 程序启动...
+2023-07-27 11:41:54,264 com.nick.Dynamic.javax.TomcatServer [main] INFO 正在扫描的包路径为: /D:/IntelliJ%20IDEA%202020.3.4/code/HttpServer/target/classes/com/nick
+2023-07-27 11:41:54,307 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 服务器启动，配置端口为: 8090
+2023-07-27 11:41:56,678 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6241 连接上服务器
+2023-07-27 11:42:56,231 com.nick.Dynamic.javax.TomcatServer [main] DEBUG 客户端: /0:0:0:0:0:0:0:1:6242 连接上服务器
